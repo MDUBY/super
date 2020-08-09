@@ -1,8 +1,7 @@
-cat > poolMetaData.json << EOF
 {
-"name": "Sustainable & Performant - Super Pool Luxembourg",
+"name": "Sustainable & Performant - SUPER Pool Luxembourg",
 "description": "Lead by PwC OPS, focus on delegators interest, guarantee low fees",
 "ticker": "SUPER",
-"homepage": "https://www.linkedin.com/in/dubyit/"
+"homepage": "https://twitter.com/SUPERPool_LU"
 }
-EOF
+
